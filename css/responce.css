@@ -67,7 +67,26 @@ html{
     margin: auto;
 }
 
+
+.ft{
+
+}
+
+.form textarea {
+    height: 9vh;
+}
 /*.firstSection {
     height: 93vh;
 }*/
+
+.btn {
+    padding: 12px;
+    font-size: 18px;
+    padding: 3px 20px;
+    margin: 1px 2px;
+    /* border: solid; */
+    border: 2px solid black;
+    border-radius: 11px;
+    cursor: pointer;
+}
 }
