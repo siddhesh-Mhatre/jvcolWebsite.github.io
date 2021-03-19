@@ -89,4 +89,14 @@ html{
     border-radius: 11px;
     cursor: pointer;
 }
+	
+.form-input {
+    margin: 7px 0;
+    padding: 5px 2px;
+    width: 94%;
+    font-size: 19px;
+    border: 2px solid goldenrod;
+    border-radius: 6px;
+}
+	
 }
