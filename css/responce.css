@@ -68,8 +68,9 @@ html{
 }
 
 
-.ft{
-
+.form {
+    max-width: 62%;
+    margin: 1px auto;
 }
 
 .form textarea {
